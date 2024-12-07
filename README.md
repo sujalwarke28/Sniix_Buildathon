@@ -17,14 +17,11 @@ GDRIVE LINK FOR THE SUBMISSION OF HACKATHON PROJECT : https://drive.google.com/d
 The Smart Device E-Commerce Platform is a comprehensive solution designed to provide users with a seamless shopping experience for a variety of smart devices. This platform includes products such as Smart Watches, Home Pods, TWS Earbuds, and Portable Bluetooth Speakers, each with different sales targets and pricing. The platform enables users to browse, order, and interact with products while offering businesses a scalable model for revenue generation and cost management.
 
 Key Products:
-            Smart Watch
+            1. Smart Watch
+            2. Homepod
+            3. TWS Earbuds
+            4. Portable Bluetooth Speaker
             
-            Home Pod
-            
-            TWS Earbuds
-            
-            Portable Bluetooth Speaker
-
             
 
 Features

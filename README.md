@@ -18,9 +18,14 @@ The Smart Device E-Commerce Platform is a comprehensive solution designed to pro
 
 Key Products:
             Smart Watch
+            
             Home Pod
+            
             TWS Earbuds
+            
             Portable Bluetooth Speaker
+
+            
 
 Features
 
